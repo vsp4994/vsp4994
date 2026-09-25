@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Vj <kbd>💻 Developer</kbd> <kbd>🛠️ Builder</kbd> <kbd>💡 Creator</kbd>
+# 👋 Hi, I'm Vj <kbd>💻 Frontend Developer</kbd> <kbd>🛠️ Builder</kbd> <kbd>💡 Creator</kbd>
+
+## 🧰 My Toolkit <kbd>React</kbd> <kbd>Vue</kbd> <kbd>TypeScript</kbd> <kbd>Pinia</kbd> <kbd>Redux</kbd> <kbd>Vite</kbd> <kbd>Git</kbd> <kbd>OAuth</kbd> <kbd>Keycloak</kbd>
+
+## 🧠 Exploring <kbd>🤖 AI Engineering</kbd> <kbd>🧠 AI Agents</kbd> <kbd>✨ LLMs</kbd> <kbd>🐍 Python</kbd> <kbd>⚡ FastAPI</kbd> <kbd>⚙️ Backend</kbd> 
 
 **<samp>I enjoy turning ideas into things that actually work</samp>**
 ```mermaid
@@ -59,21 +63,9 @@ stateDiagram-v2
 
 ---
 
-## 🛠 What I Build With
-
-```text
-💻 Build      React · Vue · TypeScript
-🧠 State      Pinia · Redux
-🚀 Ship       Vite · Git · GitLab CI/CD
-🔌 Connect    REST APIs · OAuth · Keycloak
-🤖 Explore    Python · FastAPI · LLMs
-```
-
----
-
 ## 🧪 My Playground
 
-### <img src="./icons/app-icon-192.png" width="24" valign="middle" alt="TextBook Icon"> [TextBook](https://vsp4994.github.io/textbook/)
+### <img src="./icons/app-icon-192.png" width="24" valign="middle" alt="TextBook"> [TextBook](https://vsp4994.github.io/textbook/)
 
 <samp>I built TextBook for notes, tasks and reminders with offline storage, Google Drive sync and notifications.</samp>
 
@@ -82,18 +74,13 @@ stateDiagram-v2
 <!-- <img src="./icons/clock247-icon-192.png" width="24" valign="middle" alt="Clock247"> -->
 ### [Clock247](https://vsp4994.github.io/clock247/)
 
-<samp>I built Clock247 as a personal clock dashboard with world times, alarms, notes and live weather.</samp>
+<samp>I built Clock247 as a clock dashboard with world times, alarms, notes, live weather, and an always-on display.</samp>
 
 `React` `PWA` `Sass` `LocalStorage` `Open-Meteo API`
 
-### 🃏 RummyBook
+<!-- <img src="./icons/rummy-icon-192.png" width="24" valign="middle" alt="Rummy"> -->
+### [Rummy](https://vsp4994.github.io/rummy/)
 
-A small idea that became an app.
-
-Built to manage our **13-card Rummy games** — players, rounds, scores, history and who owes whom.
+<samp>I built [Indian Rummy](https://en.wikipedia.org/wiki/Indian_Rummy) to play and track — a 13-card game — with players, rounds, scores, history, and who owes whom.</samp>
 
 `React` `TypeScript` `IndexedDB`
-
----
-
-### 🧠 Exploring <kbd>🤖 AI Engineering</kbd> <kbd>🧠 AI Agents</kbd> <kbd>✨ LLMs</kbd> <kbd>🐍 Python / FastAPI</kbd> <kbd>⚙️ Backend</kbd> <kbd>💻 Frontend Engineering</kbd>
