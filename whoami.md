@@ -73,6 +73,12 @@ stateDiagram-v2
 
 ## 🧪 My Playground
 
+### <img src="./icons/textbook.svg" width="24" alt="TextBook"> TextBook
+
+I built TextBook for notes, tasks and reminders with offline storage, Google Drive sync and notifications.
+
+`React` `TypeScript` `PWA` `IndexedDB` `Google Drive` `FastAPI`
+
 ### 📘 TextBook
 
 A personal **React + TypeScript PWA** for notes, tasks and reminders.
@@ -91,18 +97,4 @@ Built to manage our **13-card Rummy games** — players, rounds, scores, history
 
 ---
 
-## 🧠 What I'm Exploring Now
-
-<p align="center">
-  <kbd>🤖 AI Engineering</kbd><br>
-  ↑<br>
-  <kbd>🧠 AI Agents</kbd><br>
-  ↑<br>
-  <kbd>✨ LLMs</kbd><br>
-  ↑<br>
-  <kbd>🐍 Python / FastAPI</kbd><br>
-  ↑<br>
-  <kbd>⚙️ Backend</kbd><br>
-  ↑<br>
-  <kbd>💻 Frontend Engineering</kbd>
-</p>
+### 🧠 Exploring <kbd>🤖 AI Engineering</kbd> <kbd>🧠 AI Agents</kbd> <kbd>✨ LLMs</kbd> <kbd>🐍 Python / FastAPI</kbd> <kbd>⚙️ Backend</kbd> <kbd>💻 Frontend Engineering</kbd>
