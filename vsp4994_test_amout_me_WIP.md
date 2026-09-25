@@ -106,13 +106,3 @@ Built to manage our **13-card Rummy games** — players, rounds, scores, history
   ↑<br>
   <kbd>💻 Frontend Engineering</kbd>
 </p>
-
----
-
-### ⚡ Core
-
-**React · Vue.js · TypeScript · Frontend Architecture · PWA · APIs**
-
-### 🌱 Growing into
-
-**Python · FastAPI · AI Engineering · LLMs · AI Agents**
