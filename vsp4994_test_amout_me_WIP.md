@@ -1,10 +1,21 @@
-# 👋 Hi, I'm Vj
+# 👋 Hi, I'm Vj <kbd>💻 Developer</kbd> <kbd>🛠️ Builder</kbd> <kbd>💡 Creator</kbd>
 
-### Javascript Developer · Builder
+**<samp>I enjoy turning ideas into things that actually work</samp>**
+```mermaid
+flowchart TD
 
-I enjoy turning ideas into things that actually work — from **web applications and design systems to personal tools and DIY projects**.
+    A["💡 Idea"] --> B["🛠️ I Build It"]
 
-My main playground is **React, Vue.js and TypeScript**, but I like exploring everything around them — backend, APIs, authentication, PWA, AI and system architecture.
+    B --> C["💻 Web Apps"]
+    B --> D["🧩 Design Systems"]
+    B --> E["📱 Personal Tools"]
+    B --> F["🪵 DIY Projects"]
+
+    C --> G["✨ Something That Works"]
+    D --> G
+    E --> G
+    F --> G
+```
 
 ---
 
@@ -51,10 +62,11 @@ stateDiagram-v2
 ## 🛠 What I Build With
 
 ```text
-React · Vue 3 · TypeScript · JavaScript
-Pinia · Redux · Vite · Tailwind CSS · SASS
-REST APIs · Node.js · FastAPI
-Keycloak · OAuth · Git · GitLab CI/CD
+💻 Build      React · Vue · TypeScript
+🧠 State      Pinia · Redux
+🚀 Ship       Vite · Git · GitLab CI/CD
+🔌 Connect    REST APIs · OAuth · Keycloak
+🤖 Explore    Python · FastAPI · LLMs
 ```
 
 ---
@@ -81,22 +93,19 @@ Built to manage our **13-card Rummy games** — players, rounds, scores, history
 
 ## 🧠 What I'm Exploring Now
 
-```mermaid
-flowchart BT
-    A["Frontend Engineering"] --> B["Backend"]
-    B --> C["Python / FastAPI"]
-    C --> D["LLMs"]
-    D --> E["AI Agents"]
-    E --> F["AI Engineering"]
-```
-
----
-
-## 💡 How I Like to Work
-
-> **Understand it → Build it → Break it → Improve it → Build it better.**
-
-I love creating things myself — whether it's **code, an application, a design system, automation or something made from wood.** 🪵💻
+<p align="center">
+  <kbd>🤖 AI Engineering</kbd><br>
+  ↑<br>
+  <kbd>🧠 AI Agents</kbd><br>
+  ↑<br>
+  <kbd>✨ LLMs</kbd><br>
+  ↑<br>
+  <kbd>🐍 Python / FastAPI</kbd><br>
+  ↑<br>
+  <kbd>⚙️ Backend</kbd><br>
+  ↑<br>
+  <kbd>💻 Frontend Engineering</kbd>
+</p>
 
 ---
 
