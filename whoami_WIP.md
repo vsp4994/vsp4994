@@ -73,11 +73,18 @@ stateDiagram-v2
 
 ## 🧪 My Playground
 
-### <img src="./icons/app-icon-192.png" width="24" valign="middle" alt="TextBook Icon"> TextBook
+### <img src="./icons/app-icon-192.png" width="24" valign="middle" alt="TextBook Icon"> [TextBook](https://vsp4994.github.io/textbook/)
 
 <samp>I built TextBook for notes, tasks and reminders with offline storage, Google Drive sync and notifications.</samp>
 
 `React` `TypeScript` `PWA` `IndexedDB` `Google Drive` `FastAPI`
+
+<!-- <img src="./icons/clock247-icon-192.png" width="24" valign="middle" alt="Clock247"> -->
+### [Clock247](https://vsp4994.github.io/clock247/)
+
+<samp>I built Clock247 as a personal clock dashboard with world times, alarms, notes and live weather.</samp>
+
+`React` `PWA` `Sass` `LocalStorage` `Open-Meteo API`
 
 ### 🃏 RummyBook
 
