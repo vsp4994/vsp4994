@@ -73,17 +73,9 @@ stateDiagram-v2
 
 ## 🧪 My Playground
 
-### <img src="./icons/textbook.svg" width="24" alt="TextBook"> TextBook
+### <img src="./icons/app-icon-192.png" width="24" valign="middle" alt="TextBook Icon"> TextBook
 
-I built TextBook for notes, tasks and reminders with offline storage, Google Drive sync and notifications.
-
-`React` `TypeScript` `PWA` `IndexedDB` `Google Drive` `FastAPI`
-
-### 📘 TextBook
-
-A personal **React + TypeScript PWA** for notes, tasks and reminders.
-
-I built it because I wanted one simple place for my everyday thoughts and tasks — with offline storage, Google Drive sync and eventually smart notifications.
+<samp>I built TextBook for notes, tasks and reminders with offline storage, Google Drive sync and notifications.</samp>
 
 `React` `TypeScript` `PWA` `IndexedDB` `Google Drive` `FastAPI`
 
