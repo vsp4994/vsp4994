@@ -1,10 +1,26 @@
-# 👋 Hi, I'm Vj <kbd>💻 Frontend Developer</kbd> <kbd>🛠️ Builder</kbd> <kbd>💡 Creator</kbd>
+# <a href="https://giphy.com/stickers/UpStudiosWorld-playpawsum-pawsum-pawsumpandas-cXarpuLXIP9TJV4p9I"> <img src="https://media.giphy.com/media/cXarpuLXIP9TJV4p9I/giphy.gif" width="45" alt="Pawsum Panda GIF"> </a>  Hi, I'm Vj <kbd>💻 Frontend Developer</kbd> <kbd>🛠️ Builder</kbd> <kbd>💡 Creator</kbd>
 
-## 🧰 My Toolkit <kbd>React</kbd> <kbd>Vue</kbd> <kbd>TypeScript</kbd> <kbd>Pinia</kbd> <kbd>Redux</kbd> <kbd>Vite</kbd> <kbd>Git</kbd> <kbd>OAuth</kbd> <kbd>Keycloak</kbd>
+<!-- [![GIF](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)](https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc) -->
 
-## 🧠 Exploring <kbd>🤖 AI Engineering</kbd> <kbd>🧠 AI Agents</kbd> <kbd>✨ LLMs</kbd> <kbd>🐍 Python</kbd> <kbd>⚡ FastAPI</kbd> <kbd>⚙️ Backend</kbd> 
+<h2>
+  🧰 My Toolkit
+  <a href="https://react.dev/"><img height="20" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"></a>
+  <a href="https://vuejs.org/"><img height="20" src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=white"></a>
+  <a href="https://www.typescriptlang.org/"><img height="20" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"></a>
+  <a href="https://pinia.vuejs.org/"><img height="20" src="https://img.shields.io/badge/Pinia-F7D336?style=flat-square&logo=pinia&logoColor=black"></a>
+  <a href="https://redux.js.org/"><img height="20" src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"></a>
+  <a href="https://vite.dev/"><img height="20" src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"></a>
+  <a href="https://git-scm.com/"><img height="20" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"></a>
+  <a href="https://oauth.net/2/"><img height="20" src="https://img.shields.io/badge/OAuth-2F6FEB?style=flat-square&logo=auth0&logoColor=white"></a>
+  <a href="https://www.keycloak.org/"><img height="20" src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white"></a>
+</h2>
 
-**<samp>I enjoy turning ideas into things that actually work</samp>**
+### 🧠 Exploring <kbd>🤖 AI Engineering</kbd> <kbd>🧠 AI Agents</kbd> <kbd>✨ LLMs</kbd> <kbd>🐍 Python</kbd> <kbd>⚡ FastAPI</kbd> <kbd>⚙️ Backend</kbd> 
+
+### 🎓 My studies took me to <a href="https://www.epita.fr/"> <img height="20px" src="https://img.shields.io/badge/EPITA-blue" /></a> in <kbd>Paris 🇫🇷</kbd> for a <kbd>Master’s in Software Engineering</kbd>
+
+---
+### **<p align="center"><samp>I enjoy turning ideas into things that actually work</samp></p>**
 ```mermaid
 flowchart TD
 
@@ -20,6 +36,29 @@ flowchart TD
     E --> G
     F --> G
 ```
+
+---
+## 🧪 My Playground
+
+### <img src="./icons/app-icon-192.png" width="24" valign="middle" alt="TextBook"> [TextBook](https://vsp4994.github.io/textbook/)
+
+<samp>I built TextBook for notes, tasks and reminders with offline storage, Google Drive sync and notifications.</samp>
+
+`React` `TypeScript` `PWA` `IndexedDB` `Google Drive` `FastAPI`
+
+<!-- <img src="./icons/clock247-icon-192.png" width="24" valign="middle" alt="Clock247"> -->
+### [Clock247](https://vsp4994.github.io/clock247/)
+
+<samp>I built Clock247 as a clock dashboard with world times, alarms, notes, live weather, and an always-on display.</samp>
+
+`React` `PWA` `Sass` `LocalStorage` `Open-Meteo API`
+
+<!-- <img src="./icons/rummy-icon-192.png" width="24" valign="middle" alt="Rummy"> -->
+### [Rummy](https://vsp4994.github.io/rummy/)
+
+<samp>I built [Indian Rummy](https://en.wikipedia.org/wiki/Indian_Rummy) to play and track — a 13-card game — with players, rounds, scores, history, and who owes whom.</samp>
+
+`React` `TypeScript` `IndexedDB`
 
 ---
 
@@ -60,27 +99,3 @@ stateDiagram-v2
   AI_Engineering: Next
   AI_Engineering: Python · FastAPI · LLMs · AI Agents
 ```
-
----
-
-## 🧪 My Playground
-
-### <img src="./icons/app-icon-192.png" width="24" valign="middle" alt="TextBook"> [TextBook](https://vsp4994.github.io/textbook/)
-
-<samp>I built TextBook for notes, tasks and reminders with offline storage, Google Drive sync and notifications.</samp>
-
-`React` `TypeScript` `PWA` `IndexedDB` `Google Drive` `FastAPI`
-
-<!-- <img src="./icons/clock247-icon-192.png" width="24" valign="middle" alt="Clock247"> -->
-### [Clock247](https://vsp4994.github.io/clock247/)
-
-<samp>I built Clock247 as a clock dashboard with world times, alarms, notes, live weather, and an always-on display.</samp>
-
-`React` `PWA` `Sass` `LocalStorage` `Open-Meteo API`
-
-<!-- <img src="./icons/rummy-icon-192.png" width="24" valign="middle" alt="Rummy"> -->
-### [Rummy](https://vsp4994.github.io/rummy/)
-
-<samp>I built [Indian Rummy](https://en.wikipedia.org/wiki/Indian_Rummy) to play and track — a 13-card game — with players, rounds, scores, history, and who owes whom.</samp>
-
-`React` `TypeScript` `IndexedDB`
