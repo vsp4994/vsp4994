@@ -1,4 +1,4 @@
-# <a href="https://giphy.com/stickers/UpStudiosWorld-playpawsum-pawsum-pawsumpandas-cXarpuLXIP9TJV4p9I"> <img src="https://media.giphy.com/media/cXarpuLXIP9TJV4p9I/giphy.gif" width="45" alt="Pawsum Panda GIF"> </a>  Hi, I'm Vj <kbd>💻 Frontend Developer</kbd> <kbd>🛠️ Builder</kbd> <kbd>💡 Creator</kbd>
+# <a href="https://giphy.com/stickers/UpStudiosWorld-playpawsum-pawsum-pawsumpandas-cXarpuLXIP9TJV4p9I"> <img src="https://media.giphy.com/media/cXarpuLXIP9TJV4p9I/giphy.gif" width="45" alt="Pawsum Panda GIF"> </a>  Hi, I'm Vj <kbd>💻 Web Developer</kbd> <kbd>🛠️ Builder</kbd> <kbd>💡 Creator</kbd>
 
 <!-- [![GIF](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)](https://giphy.com/gifs/dog-miss-Wj7lNjMNDxSmc) -->
 
